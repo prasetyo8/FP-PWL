@@ -1,0 +1,2 @@
+# local-croft
+template Web
