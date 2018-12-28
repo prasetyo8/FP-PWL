@@ -1,0 +1,3 @@
+koneksi ada di halaman index.php
+Halaman produk.php garap sak seneng mu.
+tampialn login admin durong.
